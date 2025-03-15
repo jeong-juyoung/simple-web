@@ -1,4 +1,4 @@
-name: Deploy to AWS as tough
+name: Deploy to AWS as Tough
 on:
   push:
     branches:
