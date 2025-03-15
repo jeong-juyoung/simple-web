@@ -1,5 +1,5 @@
 ## ec2 s3 deploy12
-#test2
+#test3
 name: Deploy to AWS as Pro
 on:
   push:
